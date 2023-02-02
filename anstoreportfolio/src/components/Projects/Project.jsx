@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { projectsData } from '../data/projectsData';
+import { projectsData } from '../../data/ProjectsData';
 
 
 
